@@ -1,0 +1,44 @@
+  /*
+  let meals = [
+    {
+      id: 0,
+      name: "Grilled Chicken Salad",
+      description: "A healthy salad with grilled chicken, fresh veggies, and vinaigrette.",
+      image: "https://picsum.photos/seed/0/100/100",
+      kcals: 450,
+      eatenAt: new Date(Date.now() - 3600_000),
+      ingredients: Array(20).fill(null).map((_, i) => ({
+          id: i,
+          name: `Ingredient ${i+1}`,
+          image: "https://picsum.photos/seed/ing" + i + "/80/80",
+          kcals: 20 + i,
+          eatenAt: new Date(),
+      }))
+    },
+    {
+      id: 1,
+      name: "Pasta Primavera",
+      description: "Pasta with fresh vegetables and a light tomato sauce.",
+      image: "https://picsum.photos/seed/1/100/100",
+      kcals: 550,
+      eatenAt: new Date(Date.now() - 7200_000),
+      ingredients: [
+        {
+          id: 2,
+          name: "Pasta",
+          image: "https://picsum.photos/seed/102/80/80",
+          kcals: 400,
+          eatenAt: new Date(Date.now() - 7200_000 * 2),
+        },
+        {
+          id: 3,
+          name: "Tomatoes",
+          image: "https://picsum.photos/seed/103/80/80",
+          kcals: 50,
+          eatenAt: new Date(Date.now() - 7200_000 * 2),
+        },
+      ],
+    },
+  ];
+    */
+

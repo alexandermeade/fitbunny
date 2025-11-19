@@ -1,0 +1,9 @@
+
+how to generate shit
+openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out cert.pam
+
+Switch to JWT because it will take up less space in db and make me not have to pay not nearly as much.
+
+fly.io is a possible hosting service for the Rust backedn + the DB
+
+
